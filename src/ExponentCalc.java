@@ -211,6 +211,10 @@ public class ExponentCalc extends JFrame {
         return sum;
     }
 
+    public static double compute(double v, double v1, double v2) {
+        return v;
+    }
+
     /** Handles Calculate button click. */
     private void onCalculate() {
         try {
